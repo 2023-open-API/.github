@@ -11,7 +11,7 @@
 |:------:|:---:|:---:|:---:|:---:|  
 |Name|곽미래|김혜진|이다은|윤민지|  
 |Role|Backend/DevOps|Backend|Frontend|Frontend|
-|Github|[@miraekwak](https://github.com/miraekwak)|[@WZNT-KimHyeJin](https://github.com/WZNT-KimHyeJin)|[@leedaeun](https://github.com/leedaeun)|[@minji02](https://github.com/minji02)|
+|Github|[@miraekwak](https://github.com/miraekwak)|[@WZNT-KimHyeJin](https://github.com/WZNT-KimHyeJin)|[@daeun0726](https://github.com/leedaeun)|[@minji02](https://github.com/minji02)|
 </br>  
   
 ## PLANU
