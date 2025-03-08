@@ -46,9 +46,7 @@ PLANU는 계획을 뜻하는 PLAN과 CNU의 합성어로 충남대학교 학생�
 </br>
 
 
-### 📌 구현 화면
-
-
-### 📌 API
+### 📌 발표 자료
+- [PLANU 발표 자료](https://drive.google.com/file/d/1rplC93q7r-J-vM7JAvPpnBMIJZi-MNcY/view?usp=sharing)
 
 
